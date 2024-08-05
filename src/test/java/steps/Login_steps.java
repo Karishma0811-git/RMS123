@@ -26,6 +26,7 @@ public class Login_steps {
     @And("click on search")
     public void clickOnSearch() {
         System.out.println("click om search button");
+         System.out.println("Done");
     }
 
     @Then("User is navigate to the homepage")
