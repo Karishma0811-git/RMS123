@@ -15,7 +15,7 @@ public class Login_steps {
 
     @And("Browser is open")
     public void browserIsOpen() {
-        System.out.println("opening the browser");
+        System.out.println("opening the browser***");
     }
 
     @When("Type amazon on search box")
