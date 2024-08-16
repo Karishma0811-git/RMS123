@@ -11,7 +11,7 @@ public class Login_steps {
     @Given("Set Drivers")
     public void set_drivers() {
         System.out.println("set drivers");
-         out.println("set drivers");
+         System.out.println("set drivers");
     }
 
     @And("Browser is open")
